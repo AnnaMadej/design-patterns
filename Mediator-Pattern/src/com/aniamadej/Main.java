@@ -22,6 +22,8 @@ public class Main {
         powerSupply.setOn();
         wallSwitch.press();
 
+        powerSupply.setOff();
+
     }
 
 
